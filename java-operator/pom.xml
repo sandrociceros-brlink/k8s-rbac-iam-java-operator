@@ -17,7 +17,7 @@
 		<java.version>1.8</java.version>
 		<junit.version>4.12</junit.version>
 		<k8s.java.version>11.0.1</k8s.java.version>
-		<aws.sdk.version>1.11.739</aws.sdk.version>
+		<aws.sdk.version>1.12.622</aws.sdk.version>
 	</properties>
 
 	<parent>
